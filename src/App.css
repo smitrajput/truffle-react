@@ -66,3 +66,15 @@ code {
   height: 16px;
   margin-right: 10px;
 }
+
+#background-video{
+
+height: 100%;
+width: 100%;
+float: left;
+top: 0;
+padding: none;
+position: fixed; /* optional depending on what you want to do in your app */
+
+
+}
